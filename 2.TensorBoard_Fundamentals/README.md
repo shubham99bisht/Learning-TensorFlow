@@ -6,12 +6,12 @@ This Repository contains good that I've written while learning from online resou
 
 ## Project Details and Results
 
-1. Basic_Equation.py
+**1. Basic_Equation.py**
 
-The file creates following graph
+&nbsp;&nbsp;&nbsp; The file creates following Computation graph
 
-![project_list.md](https://github.com/shubham99bisht/Learning-TensorFlow/blob/master/2.TensorBoard_Fundamentals/Images/graph_1.png)
+![](https://github.com/shubham99bisht/Learning-TensorFlow/blob/master/2.TensorBoard_Fundamentals/graph_1.png)
 
 
-2. TensorBoard Fundamentals
+**2. TensorBoard Fundamentals**
 Under process

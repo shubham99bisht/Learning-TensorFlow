@@ -20,9 +20,9 @@ Finally, you'll explore using TensorFlow with neural networks in general, and sp
 2. Basic Projects
 3. Advanced Projects
 
-The file project_list.txt lists all the projects and their location for easily navigation to the right code.
+The file [project_list.md](https://github.com/shubham99bisht/Learning-TensorFlow/blob/master/Project_List.md) lists all the projects and their location for easily navigation to the right code.
 
 ## Credits to Courses I've taken:
 
-1. <b>TensorFlow: Getting Started</b> by Jerry Kurata at PluralSight
-2. <b>Understanding the Foundations of TensorFlow</b> by Janani Ravi at PluralSight
+1. <b>TensorFlow: Getting Started</b> by Jerry Kurata at [PluralSight](https://app.pluralsight.com/library/)
+2. <b>Understanding the Foundations of TensorFlow</b> by Janani Ravi at [PluralSight](https://app.pluralsight.com/library/)
